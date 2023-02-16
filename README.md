@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github link](https://github.com/bernhard759/frontendmentor-order-summary-component)
+- Live Site URL: [GH Pages](https://bernhard759.github.io/frontendmentor-order-summary-component/)
 
 ## My process
 
@@ -48,5 +48,5 @@ This project was a good practise for flexbox and grid layouts.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/bernhard759)
+- Frontend Mentor - [@bernhard759](https://www.frontendmentor.io/profile/bernhard759)
 
